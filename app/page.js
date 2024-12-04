@@ -174,7 +174,7 @@ export default function Home() {
               <span>let us handle your interior furniture style</span>
              </div>
 
-             <button>More Info</button>
+             <a href="https://www.instagram.com/nolimits.ng.ltd?igsh=djg0M3Y0ZjJzYjN1" target="_blank"><button style={{marginRight:"20px"}}>More Info</button></a>
           </div>
         </div>
     
