@@ -195,10 +195,10 @@ export default function Home() {
                   <div className={styles.date}>10th Feb,2023</div>
                  </div>
                  <div className={styles.eachPersonTxt}>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet eros vitae odio facilisis consequat. Integer a orci at eros cursus ultricies vel at elit. Vivamus volutpat, nulla a vehicula pellentesque
+                 I couldn't be happier with my new dining set! The craftsmanship is top-notch, and it adds so much elegance to my home. Delivery was fast, and the setup was easy. My guests keep complimenting how unique it looks. Highly recommend this furniture store!
                  </div>
 
-                 <div className={styles.name}>Hillary victor</div>
+                 <div className={styles.name}>Ademola Oladipo</div>
               </div>
               <div className={styles.eachReview}>
                  <div className={styles.eachPerson}>
@@ -210,13 +210,13 @@ export default function Home() {
                     <StarIcon style={{color:"#FFA500",fontSize:"16px"}}/>
                   </div>
 
-                  <div className={styles.date}>10th Feb,2023</div>
+                  <div className={styles.date}>6th Mar,2022</div>
                  </div>
                  <div className={styles.eachPersonTxt}>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet eros vitae odio facilisis consequat. Integer a orci at eros cursus ultricies vel at elit. Vivamus volutpat, nulla a vehicula pellentesque
+                 I bought a sectional sofa from here, and it is the most comfortable piece of furniture I’ve ever owned. The fabric is soft yet durable, and the color blends perfectly with my living room décor. The customer service team was also very helpful and professional. Will definitely shop here again!
                  </div>
 
-                 <div className={styles.name}>Hillary victor</div>
+                 <div className={styles.name}>Amara Nwachukwu</div>
               </div>
               <div className={styles.eachReview}>
                  <div className={styles.eachPerson}>
@@ -228,13 +228,13 @@ export default function Home() {
                     <StarIcon style={{color:"#FFA500",fontSize:"16px"}}/>
                   </div>
 
-                  <div className={styles.date}>10th Feb,2023</div>
+                  <div className={styles.date}>23rd Nov,2024</div>
                  </div>
                  <div className={styles.eachPersonTxt}>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet eros vitae odio facilisis consequat. Integer a orci at eros cursus ultricies vel at elit. Vivamus volutpat, nulla a vehicula pellentesque
+                    The office chair I ordered is incredibly ergonomic and stylish. It supports my back perfectly during long hours of work. My only issue was a slight delay in delivery, but the quality of the product more than made up for it. Great value for money!
                  </div>
 
-                 <div className={styles.name}>Hillary victor</div>
+                 <div className={styles.name}>Ibrahim Abdullahi</div>
               </div>
 
               <div className={styles.eachReview}>
@@ -247,13 +247,13 @@ export default function Home() {
                     <StarIcon style={{color:"#FFA500",fontSize:"16px"}}/>
                   </div>
 
-                  <div className={styles.date}>10th Feb,2023</div>
+                  <div className={styles.date}>17th may,2024</div>
                  </div>
                  <div className={styles.eachPersonTxt}>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet eros vitae odio facilisis consequat. Integer a orci at eros cursus ultricies vel at elit. Vivamus volutpat, nulla a vehicula pellentesque
+                    I love the attention to detail in the wardrobe I purchased. It’s spacious, sturdy, and looks beautiful in my bedroom. The design is modern yet functional, with enough compartments for all my clothes. I appreciate the store's commitment to quality and customer satisfaction!
                  </div>
 
-                 <div className={styles.name}>Hillary victor</div>
+                 <div className={styles.name}>Chioma Obiajulu</div>
               </div>
           </div>
       </div>
