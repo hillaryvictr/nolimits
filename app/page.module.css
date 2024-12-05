@@ -714,7 +714,7 @@
   }
 
   .categories{
-    grid-template-columns:1fr 1fr;
+    grid-template-columns:1fr;
   }
 
   .leftTxt{
@@ -829,12 +829,18 @@
    margin-top: 1em;
   }
 
+  .heroSection{
+    margin-top:4em;
+  }
+
   .heroSection h1{
-    font-size:35px
+    font-size:35px;
+    text-align: center;
   }
 
   .heroSection span{
-    font-size:16px;
+    font-size:18px;
     margin-top: 10px;
+    font-weight: bold;
   }
 }

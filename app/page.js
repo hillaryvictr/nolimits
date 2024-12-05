@@ -34,8 +34,8 @@ export default function Home() {
              </header>
 
              <section className={styles.heroSection}>
-                <h1>Architecture Design</h1>
-                <span>we pride ourselves on being builders</span>
+                <h1>A revolution in design and craftsmanship</h1>
+                <span>every piece is a story</span>
                 <a href="https://www.instagram.com/nolimits.ng.ltd?igsh=djg0M3Y0ZjJzYjN1" target="_blank"><button>Contact Us</button></a>
              </section>
           </div>
@@ -112,7 +112,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className={styles.infoRight}>
-                    <div>Lawrence Ngene, CEO of No Limits Furniture in Jos, Plateau State, has turned his business into a thriving brand, defying the challenges of Nigeria's business environment. A Business Administration graduate from the University of Jos, Lawrence launched his showroom in 2011 and has since seen significant growth, thanks to the support and patronage of Nigerians who value locally-made products.
+                    <div>Lawrence Ngene, CEO of No Limits Furniture in Jos and Abuja, has turned his business into a thriving brand, defying the challenges of Nigeria's business environment. A Business Administration graduate from the University of Jos, Lawrence launched his showroom in 2011 and has since seen significant growth, thanks to the support and patronage of Nigerians who value locally-made products.
                       Social media platforms like Instagram and Facebook have been instrumental in reaching a broader audience and engaging customers. By showcasing high-quality, affordable, and unique furniture designs, No Limits Furniture has built a loyal customer base.
                       Raised in a family of carpenters, Lawrence's early passion for furniture was nurtured in his father's workshop. His creativity and hands-on experience have driven the brand's success. Lawrence attributes this to producing durable furniture, offering competitive pricing, and running strategic promotions.
                       The story of No Limits Furniture is a testament to resilience, innovation, and the power of community support. Lawrence Ngene's journey exemplifies how passion and determination can overcome challenges and drive local manufacturing success in Nigeria.
@@ -261,7 +261,7 @@ export default function Home() {
       <footer className={styles.footer}>
          <div className={styles.gridlft}>
             <Image src={nolimit} alt="hero" width={100} height={50} />
-            <span>we provide a full range of interior designs,furnitures and architectural designs</span>
+            <span>we manufacture what others import</span>
          </div>
          <div className={styles.gridlft}>
            <h2>Contacts</h2>
@@ -278,7 +278,7 @@ export default function Home() {
               </li>
               <li>
                 <EmailIcon />
-                <div>Info@nolimits.com.ng</div>
+                <div>info@nolimitsfurniture.com.ng</div>
               </li>
 
               <li>
